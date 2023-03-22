@@ -6,7 +6,8 @@ body {
     background-color: hsl(0, 0%, 100%);
     background-size: 200px;
     text-align: center;
-    width: 250px;
+    width: 275px;
+    margin: 0 500px;
     margin-top: 2rem;
     margin-bottom: 2rem;
 }
