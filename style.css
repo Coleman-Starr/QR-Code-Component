@@ -20,10 +20,12 @@ img {
 
 h4 {
     font-family: 'Outfit', sans-serif;
-    text-align: center;
 }
 
 p {
     font-family: 'Outfit', 'sans-serif';
-    text-align: center;
+}
+
+#text-container {
+    border: 2px black;
 }
