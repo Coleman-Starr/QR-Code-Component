@@ -2,8 +2,13 @@ body {
     background-color: hsl(212, 45%, 89%);
 }
 
-.parent {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
+#content {
+    background-color: hsl(0, 0%, 100%);
+    background-size: 200px;
+    text-align: center;
+    width: 330px;
+    height: 500px;
+    padding-top: 15px ;
+    margin: 0 auto;
+}
+
