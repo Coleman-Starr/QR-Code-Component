@@ -21,3 +21,7 @@ img {
     padding-right: 25px;
     padding-left: 25px;
 }
+
+p {
+    color: hsl(220, 15%, 55%);
+}
