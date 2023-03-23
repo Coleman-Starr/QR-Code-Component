@@ -10,7 +10,8 @@ body {
     height: 470px;
     margin: 0 auto;
     padding-top: 10px;
-    text-size-adjust: 200px;
+    padding-right: 50px ;
+    padding-left: 50px;
 }
 
 img {
