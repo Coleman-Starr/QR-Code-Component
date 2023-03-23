@@ -10,6 +10,7 @@ body {
     height: 470px;
     margin: 0 auto;
     padding-top: 10px;
+    text-size-adjust: 200px;
 }
 
 img {
@@ -18,12 +19,10 @@ img {
 
 h4 {
     font-family: 'Outfit', sans-serif;
-    width: 200px;
     text-align: center;
 }
 
 p {
     font-family: 'Outfit', 'sans-serif';
-    width: 200px;
     text-align: center;
 }
