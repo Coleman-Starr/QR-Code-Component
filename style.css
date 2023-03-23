@@ -19,9 +19,11 @@ img {
 h4 {
     font-family: 'Outfit', sans-serif;
     width: 200px;
+    text-align: center;
 }
 
 p {
     font-family: 'Outfit', 'sans-serif';
     width: 200px;
+    text-align: center;
 }
