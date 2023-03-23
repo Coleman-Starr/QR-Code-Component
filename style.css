@@ -4,8 +4,13 @@ body {
 
 #content {
     background-color: hsl(0, 0%, 100%);
+    border-radius: 25px;
+    text-align: center;
     width: 350px;
     height: 440px;
     margin: 0 auto;
 }
 
+img {
+    border-radius: 25px;
+}
