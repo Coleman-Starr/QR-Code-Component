@@ -7,11 +7,19 @@ body {
     border-radius: 25px;
     text-align: center;
     width: 330px;
-    height: 440px;
+    height: 470px;
     margin: 0 auto;
     padding-top: 10px;
 }
 
 img {
     border-radius: 25px;
+}
+
+h4 {
+    font-family: 'Outfit700', sans-serif;
+}
+
+p {
+    font-family: 'Outfit400', 'sans-serif';
 }
