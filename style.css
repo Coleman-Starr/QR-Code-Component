@@ -2,9 +2,8 @@ body {
     background-color: hsl(212, 45%, 89%);
 }
 
-.container {
+.parent {
     display: flex;
+    justify-content: center;
     align-items: center;
-    height: auto;
-    border: 2px solid #006100; 
-}
+  }
