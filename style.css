@@ -4,5 +4,8 @@ body {
 
 #content {
     background-color: hsl(0, 0%, 100%);
+    text-align: center;
+    width: 350px;
+    height: 440px;
 }
 
