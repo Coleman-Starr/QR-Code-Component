@@ -6,9 +6,6 @@ body {
     justify-content: center;
 }
 
-#absolute {
-    position: relative;
-}
 
 #content {
     background-color: hsl(0, 0%, 100%);
@@ -19,9 +16,7 @@ body {
     margin: auto;
     padding-top: 15px;
     display: table-cell;
-    vertical-align: middle;
-    position: absolute;
-    top: 50%;
+    align-items: center;
 }
 
 img {
