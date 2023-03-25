@@ -6,8 +6,8 @@ body {
     justify-content: center;
 }
 
-#table {
-    display: table;
+#absolute {
+    position: relative;
 }
 
 #content {
@@ -20,6 +20,8 @@ body {
     padding-top: 15px;
     display: table-cell;
     vertical-align: middle;
+    position: absolute;
+    top: 50%;
 }
 
 img {
